@@ -1,0 +1,54 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+   
+    width:360px;
+    height: 250px;
+    background-color: black;
+    border-radius: 10px;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+h1 {
+    font-family:Netflix Sans,Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color:blue;
+
+}
+#result {
+     width:360px;
+    height: 250px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+p {
+    color:saddlebrown;
+    font-family:Cursive;
+
+}
+button {
+    font-family:'Product Sans';
+ font:inherit;
+}
+img {
+    border-color:red;
+    border-style:ridge;
+    border-width: 10px;
+   background-color:rosybrown;
+}
+@font-face {
+    font-family: Netflix Sans;
+    src: url("NetflixSansBold.ttf");
+}
